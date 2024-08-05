@@ -1,0 +1,11 @@
+.slide2 img {
+  width: 50em;
+  height: 25em;
+  border-radius: 2em;
+  overflow: hidden;
+
+}
+.slide2 {
+  width: 25%;
+  position: relative;
+}
