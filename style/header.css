@@ -6,17 +6,17 @@ header {
 }
 
 .logo {
-width: 230px;
-height: 230px;
-padding-left: 30px;
+width: 18em;
+height: 14em;
+padding-left: 2em;
 position: relative;
 }
 
 
 nav li {
   display: inline;
- margin: 1.5em 0 0 80px;
-  font-size: 45px;
+ margin: 2em 0 0 2em;
+  font-size: 3em;
 }
 
 nav a:hover {
@@ -28,12 +28,11 @@ nav a {
   text-transform: uppercase;
   color: #90EE90;
   font-weight: bold;
-  font-size: 24px;
 
 }
 
 nav {
   position: absolute;
-  top: 90px;
-  right: 100px;
+  top: 5em;
+  right: 0em;
 }
