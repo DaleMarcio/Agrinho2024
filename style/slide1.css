@@ -22,20 +22,21 @@
 
 .slide1 img {
   radius: 1em;
-  width: 20em;
+  width: 19em;
   margin-top: 0em;
   border-radius: 1em;
   height: 12em;
-  border-color: white;
-  border-width: ;
+  border-color: #90EE90;
+  border-width: 1em;
+  border-style: solid;
   overflow: hidden;
   margin-right: -10em;
 }
 
 .manual-navigation1{
   position: absolute;
-  width: 18em;
-  margin-top: -18.5em;
+  width: 20em;
+  margin-top: -18.2em;
   display: flex;
   justify-content: center;
 }
@@ -50,8 +51,8 @@
 
 .navigation-auto1{
   position: absolute;
-  width: 18em;
-  margin-top: 12.8em;
+  width: 20em;
+  margin-top: 13.0em;
   display: flex;
   justify-content: center;
 }
