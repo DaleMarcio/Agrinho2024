@@ -10,11 +10,11 @@ font-style: italic;
 p {
   text-align: center;
   font-size: 3em;
-  padding: 1em 2em 0em 2em;
+  padding: 1em 4em 0em 4em;
 }
 
 h3 {
-  padding: 1em 2em 0em 2em;
+  padding: 0em 2em 0em 2em;
   font-weight: bold;
   color: #008000;
 text-align: center;
@@ -23,5 +23,5 @@ font-style: italic;
 }
 
 .motivos-letra {
-  padding: 0em 2em 2em 2em;
+  padding: 0em 2em 0em 2em;
 }
